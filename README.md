@@ -512,3 +512,22 @@ Bit Manipulation
  	468  Divide two integers without using multiplication, division and mod operator
  	469  Calculate square of a number without using *, / and pow()
  	470 Power Set
+
+
+Extra:
+Binary Search:
+	BS1  First and the Last occurrence of an element
+	BS2	 Count of elements in a sorted array
+	BS3	 Number of Times a Sorted array is Rotated
+	BS4	 Find an Element in a Rotated Sorted Array
+	BS5	 Searching in a Nearly Sorted Array
+	BS6	 Find Floor of an element in a Sorted Array
+	BS7	 Ceil of an element in a Sorted Array
+	BS8	 Next Alphabetical Element
+	BS9	 Find the position of an element in an Infinite Sorted Array
+	BS10 Index of First 1 in a Binary Sorted Infinite Array
+	BS11 Minimum Difference Element in a Sorted Array
+	BS12 Peak Element
+	BS13 Find a maximum element in Bitonic Array
+	BS14 Search in Row wise And Column wise Sorted Array
+
