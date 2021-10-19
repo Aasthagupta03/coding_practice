@@ -515,7 +515,9 @@ Bit Manipulation
 
 
 Extra:
-#Binary Search:
+
+
+Binary Search:
 
 
 	BS1  First and the Last occurrence of an element
